@@ -7,6 +7,7 @@ public class HelloWorld {
     // IntelliJ IDEA suggests fixing it.
 
         System.out.println("Hello, World!");
-    System.out.println("Janan");
+    System.out.println("Janan Patel");
+
       }
     }
